@@ -1,12 +1,12 @@
 {
-    "name": "moonshiner/cms",
+    "name": "moonshiner-agency/cms",
     "description": "Finally a good CMS for the Laravel Framework.",
     "keywords": ["cms", "laravel"],
     "license": "MIT",
     "homepage": "https://cms.com",
     "support": {
-        "issues": "https://github.com/moonshiner/cms/issues",
-        "source": "https://github.com/moonshiner/cms"
+        "issues": "https://github.com/moonshiner-agency/cms/issues",
+        "source": "https://github.com/moonshiner-agency/cms"
     },
     "authors": [
         {
